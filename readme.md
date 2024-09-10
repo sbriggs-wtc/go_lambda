@@ -20,7 +20,7 @@ curl -v -H "x-api-key: <API_KEY>" "<API_ENDPOINT>" -d '{"payload":"hello world!"
 
 
 CMD:
-"C:\Users\Shane Briggs\Go\bin\build-lambda-zip.exe" -o go1.zip bootstrap
+"C:\Users\<USERNAME>\Go\bin\build-lambda-zip.exe" -o go1.zip bootstrap
 
 
 
